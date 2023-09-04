@@ -1,0 +1,3 @@
+from robots_vs_dinos import run_robots_vs_dinos
+
+run_robots_vs_dinos()
